@@ -4,7 +4,7 @@ using UnityEngine;
 namespace Oxide.Plugins
 {
     [Info("No Underwater Vending", "VisEntities", "1.0.0")]
-    [Description(" ")]
+    [Description("Prevents players from placing vending machines underwater.")]
     public class NoUnderwaterVending : RustPlugin
     {
         #region Fields
